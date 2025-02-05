@@ -22,8 +22,8 @@ Welcome to my GitHub profile! I am a **Software Engineering student** at **UBIT*
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/PalwashaNaeemKhan-linkedin)
-- [Instagram](https://www.instagram.com/palwashayusufzi-instagram)
+- [LinkedIn](https://www.linkedin.com/in/PalwashaNaeemKhan)
+- [Instagram](https://www.instagram.com/palwashayusufzi)
 -  
 
 
