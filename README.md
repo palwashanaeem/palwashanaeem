@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I am a **Software Engineering student** at **UBIT*
 
 ## 🔧 Technologies & Tools I Use
 
-- **Languages**: Dart, SQL, Python (beginner)
+- **Languages**: Dart, SQL, Python 
 - **Frameworks**: Flutter, Django (learning)
 - **Tools**: Git, GitHub, VS Code
 - **Others**: Agile methodology, Object-Oriented Programming (OOP)
